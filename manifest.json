@@ -1,0 +1,28 @@
+{
+  "verificationToken": "01KXY0CY91J6774Q8YGGMWW1TY",
+  "courseId": "0bc1f64f-7f9a-5803-b4e5-b3ad70f3c26d",
+  "chapterId": "f671324d-0d83-4978-b1fd-8a25c204912f",
+  "templateId": "tpl_lens_readiness_map",
+  "variants": [
+    {
+      "id": "tpl_lens_readiness_map",
+      "path": "lens-readiness-map.md"
+    },
+    {
+      "id": "tpl_readiness_brief",
+      "path": "readiness-brief.md"
+    },
+    {
+      "id": "tpl_readme",
+      "path": "README.md"
+    },
+    {
+      "id": "tpl_chat",
+      "path": "blueprints/chat.md"
+    }
+  ],
+  "totalScore": null,
+  "verdict": null,
+  "compiledAt": "2026-07-19T20:17:06.850Z",
+  "compositionMode": null
+}
