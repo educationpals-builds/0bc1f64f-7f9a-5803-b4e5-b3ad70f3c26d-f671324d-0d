@@ -1,5 +1,5 @@
 {
-  "verificationToken": "01KXY0CY91J6774Q8YGGMWW1TY",
+  "verificationToken": "01KY0SW7MAQ9X0CEY5B3QKM6SQ",
   "courseId": "0bc1f64f-7f9a-5803-b4e5-b3ad70f3c26d",
   "chapterId": "f671324d-0d83-4978-b1fd-8a25c204912f",
   "templateId": "tpl_lens_readiness_map",
@@ -9,7 +9,7 @@
       "path": "lens-readiness-map.md"
     },
     {
-      "id": "tpl_readiness_brief",
+      "id": "tpl_lens_brief",
       "path": "readiness-brief.md"
     },
     {
@@ -19,10 +19,18 @@
     {
       "id": "tpl_chat",
       "path": "blueprints/chat.md"
+    },
+    {
+      "id": "tpl_blueprint_decision_chat",
+      "path": "blueprints/decision-chat.md"
+    },
+    {
+      "id": "tpl_blueprint_worksheet",
+      "path": "blueprints/worksheet.md"
     }
   ],
   "totalScore": null,
   "verdict": null,
-  "compiledAt": "2026-07-19T20:17:06.850Z",
+  "compiledAt": "2026-07-20T22:20:51.211Z",
   "compositionMode": null
 }
